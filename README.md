@@ -6,7 +6,7 @@ State Engineer in Computer Science (Parallel & Distributed Systems)<br>
 
 ## 🔬 Research interests
 
-- Multi-agent systems and agentic AI for cybersecurity
+- AI for cybersecurity
 - Automated detection and incident response (SIEM / SOAR)
 - Security of critical and distributed infrastructures
 - Networks, cloud, 5G and IoT security
